@@ -64,6 +64,19 @@ on the server and displays its current values.
 6. Open [http://localhost:3000](http://localhost:3000) to view the public
    website.
 
+## Test admin access
+
+To test the CMS, go to `/admin` and sign in with:
+
+```text
+Email:    test@gmail.com
+Password: test
+```
+
+Please do not change this account's password. If the admin page does not open or
+these credentials do not work, contact the repository owner using the email
+address listed on their GitHub profile.
+
 ## Editing website content
 
 1. Sign in at `/admin`.
